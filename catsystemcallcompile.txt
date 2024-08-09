@@ -1,0 +1,5 @@
+To compile give the command as 
+at the prompt $ gcc catsystemcall.c (the name of the program created in this case it is catsystemcall.c)
+you will get some warning ignore it
+execute it as follows
+at the prompt $ ./a.out a.txt (here a.txt should have been created some text file and the same content will be displayed once you execute the program ok)
